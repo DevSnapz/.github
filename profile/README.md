@@ -49,7 +49,7 @@ Want to spin up the DevSnapz client locally? Follow these steps:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/DevSnapz/Landing-1.git
+git clone https://github.com/DevSnapz/Landing.git
 
 # 2. Navigate to the project directory
 cd Landing-1
